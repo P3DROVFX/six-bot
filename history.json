@@ -1,0 +1,1606 @@
+{
+    "242760": {
+        "gameInfo": {
+            "name": "The Forest",
+            "url": "https://store.steampowered.com/app/242760/",
+            "image": "https://assets.isthereanydeal.com/018d937f-21f9-73ec-8659-31dabc9abc90/banner300.jpg?t=1732807514",
+            "currency": "BRL",
+            "lastUpdated": "2025-10-26T20:59:57.918Z",
+            "itadId": "018d937f-21f9-73ec-8659-31dabc9abc90",
+            "historyLow_steam": 7.59,
+            "historyLow_steam_updated": "2025-10-05T02:49:37.366Z"
+        },
+        "priceHistory": {
+            "steam": [
+                {
+                    "timestamp": "2025-07-03",
+                    "price": 7.59
+                },
+                {
+                    "timestamp": "2025-07-04",
+                    "price": 7.59
+                },
+                {
+                    "timestamp": "2025-07-10",
+                    "price": 37.99
+                },
+                {
+                    "timestamp": "2025-09-29",
+                    "price": 9.49
+                },
+                {
+                    "timestamp": "2025-10-04",
+                    "price": 9.49
+                },
+                {
+                    "timestamp": "2025-10-06",
+                    "price": 37.99
+                },
+                {
+                    "timestamp": "2025-10-27",
+                    "price": 9.11
+                }
+            ],
+            "epic": [],
+            "microsoft": []
+        }
+    },
+    "1091500": {
+        "gameInfo": {
+            "name": "Cyberpunk 2077",
+            "url": "https://store.steampowered.com/app/1091500/",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1756209867",
+            "currency": "BRL",
+            "lastUpdated": "2025-10-05T02:49:40.765Z",
+            "itadId": "018d937f-2997-7131-b8b9-7c8af4825fa8",
+            "historyLow_steam": 69.96,
+            "historyLow_steam_updated": "2025-10-05T02:49:37.368Z",
+            "historyLow_epic": 69.96,
+            "historyLow_epic_updated": "2025-10-05T02:49:40.765Z"
+        },
+        "priceHistory": {
+            "steam": [
+                {
+                    "timestamp": "2025-07-03",
+                    "price": 69.96
+                },
+                {
+                    "timestamp": "2025-07-10",
+                    "price": 199.9
+                },
+                {
+                    "timestamp": "2025-08-04",
+                    "price": 69.96
+                },
+                {
+                    "timestamp": "2025-08-17",
+                    "price": 199.9
+                },
+                {
+                    "timestamp": "2025-09-18",
+                    "price": 69.96
+                },
+                {
+                    "timestamp": "2025-09-28",
+                    "price": 199.9
+                },
+                {
+                    "timestamp": "2025-09-29",
+                    "price": 69.96
+                },
+                {
+                    "timestamp": "2025-10-04",
+                    "price": 69.96
+                },
+                {
+                    "timestamp": "2025-10-06",
+                    "price": 199.9
+                }
+            ],
+            "epic": [
+                {
+                    "timestamp": "2025-07-03",
+                    "price": 199.9
+                },
+                {
+                    "timestamp": "2025-07-17",
+                    "price": 79.96
+                },
+                {
+                    "timestamp": "2025-07-31",
+                    "price": 199.9
+                },
+                {
+                    "timestamp": "2025-09-04",
+                    "price": 69.96
+                },
+                {
+                    "timestamp": "2025-09-18",
+                    "price": 199.9
+                },
+                {
+                    "timestamp": "2025-10-04",
+                    "price": 199.9
+                },
+                {
+                    "timestamp": "2025-10-20",
+                    "price": 69.96
+                }
+            ],
+            "microsoft": []
+        }
+    },
+    "1144200": {
+        "gameInfo": {
+            "name": "Ready Or Not",
+            "url": "https://store.steampowered.com/app/1144200/",
+            "image": "https://assets.isthereanydeal.com/018d937e-f519-71e5-b1d0-b00cbb24c647/banner300.jpg?t=1753985111",
+            "lastUpdated": "2025-10-26T21:00:01.672Z",
+            "itadId": "018d937e-f519-71e5-b1d0-b00cbb24c647",
+            "historyLow_steam": 65.99,
+            "historyLow_steam_updated": "2025-10-05T02:49:37.369Z",
+            "historyLow_epic": 80.99,
+            "historyLow_epic_updated": "2025-10-05T02:49:40.767Z",
+            "historyLow_microsoft": 105.59,
+            "historyLow_microsoft_updated": "2025-10-05T02:49:44.101Z",
+            "currency": "BRL"
+        },
+        "priceHistory": {
+            "steam": [
+                {
+                    "timestamp": "2025-07-03",
+                    "price": 65.99
+                },
+                {
+                    "timestamp": "2025-07-10",
+                    "price": 131.99
+                },
+                {
+                    "timestamp": "2025-08-26",
+                    "price": 79.19
+                },
+                {
+                    "timestamp": "2025-09-05",
+                    "price": 131.99
+                },
+                {
+                    "timestamp": "2025-09-29",
+                    "price": 65.99
+                },
+                {
+                    "timestamp": "2025-10-04",
+                    "price": 65.99
+                },
+                {
+                    "timestamp": "2025-10-06",
+                    "price": 131.99
+                }
+            ],
+            "epic": [
+                {
+                    "timestamp": "2025-07-10",
+                    "price": 134.99
+                },
+                {
+                    "timestamp": "2025-08-27",
+                    "price": 80.99
+                },
+                {
+                    "timestamp": "2025-09-18",
+                    "price": 134.99
+                },
+                {
+                    "timestamp": "2025-10-04",
+                    "price": 134.99
+                }
+            ],
+            "microsoft": [
+                {
+                    "timestamp": "2025-08-13",
+                    "price": 131.99
+                },
+                {
+                    "timestamp": "2025-08-27",
+                    "price": 105.59
+                },
+                {
+                    "timestamp": "2025-09-04",
+                    "price": 131.99
+                },
+                {
+                    "timestamp": "2025-09-05",
+                    "price": 131.99
+                },
+                {
+                    "timestamp": "2025-09-09",
+                    "price": 131.99
+                },
+                {
+                    "timestamp": "2025-09-11",
+                    "price": 131.99
+                },
+                {
+                    "timestamp": "2025-10-04",
+                    "price": 131.99
+                }
+            ]
+        }
+    },
+    "1145350": {
+        "gameInfo": {
+            "name": "Hades II",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/91ac334a2c137d08968ccc0bc474a02579602100/header.jpg?t=1758942442",
+            "lastUpdated": "2025-10-05T02:49:40.768Z",
+            "itadId": "018d937f-6ee3-738a-b578-ddd7e9a0d24d",
+            "historyLow_steam": 80.09,
+            "historyLow_steam_updated": "2025-10-05T02:49:37.371Z",
+            "historyLow_epic": 88.99,
+            "historyLow_epic_updated": "2025-10-05T02:49:40.768Z"
+        },
+        "priceHistory": {
+            "steam": [
+                {
+                    "timestamp": "2025-07-03",
+                    "price": 80.09
+                },
+                {
+                    "timestamp": "2025-07-04",
+                    "price": 80.09
+                },
+                {
+                    "timestamp": "2025-07-05",
+                    "price": 80.09
+                },
+                {
+                    "timestamp": "2025-07-10",
+                    "price": 88.99
+                },
+                {
+                    "timestamp": "2025-10-04",
+                    "price": 88.99
+                }
+            ],
+            "epic": [
+                {
+                    "timestamp": "2025-07-03",
+                    "price": 88.99
+                },
+                {
+                    "timestamp": "2025-07-04",
+                    "price": 88.99
+                },
+                {
+                    "timestamp": "2025-10-04",
+                    "price": 88.99
+                }
+            ],
+            "microsoft": []
+        }
+    },
+    "1174180": {
+        "gameInfo": {
+            "name": "Red Dead Redemption 2",
+            "url": "https://store.steampowered.com/app/1174180/",
+            "image": "https://assets.isthereanydeal.com/018d937f-3a3b-7210-bd2d-0d1dfb1d84c0/banner300.jpg?t=1760981447",
+            "currency": "BRL",
+            "lastUpdated": "2025-10-26T21:00:02.936Z",
+            "itadId": "018d937f-3a3b-7210-bd2d-0d1dfb1d84c0",
+            "historyLow_steam": 74.97,
+            "historyLow_steam_updated": "2025-10-05T02:49:37.372Z",
+            "historyLow_epic": 74.75,
+            "historyLow_epic_updated": "2025-10-05T02:49:40.769Z"
+        },
+        "priceHistory": {
+            "steam": [
+                {
+                    "timestamp": "2025-07-03",
+                    "price": 74.97
+                },
+                {
+                    "timestamp": "2025-07-24",
+                    "price": 299.9
+                },
+                {
+                    "timestamp": "2025-08-25",
+                    "price": 74.97
+                },
+                {
+                    "timestamp": "2025-09-08",
+                    "price": 299.9
+                },
+                {
+                    "timestamp": "2025-09-29",
+                    "price": 74.97
+                },
+                {
+                    "timestamp": "2025-10-04",
+                    "price": 74.97
+                },
+                {
+                    "timestamp": "2025-10-06",
+                    "price": 299.9
+                },
+                {
+                    "timestamp": "2025-10-08",
+                    "price": 74.97
+                },
+                {
+                    "timestamp": "2025-10-20",
+                    "price": 299.9
+                }
+            ],
+            "epic": [
+                {
+                    "timestamp": "2025-07-03",
+                    "price": 299
+                },
+                {
+                    "timestamp": "2025-07-17",
+                    "price": 74.75
+                },
+                {
+                    "timestamp": "2025-07-31",
+                    "price": 299
+                },
+                {
+                    "timestamp": "2025-09-04",
+                    "price": 74.75
+                },
+                {
+                    "timestamp": "2025-09-18",
+                    "price": 299
+                },
+                {
+                    "timestamp": "2025-10-04",
+                    "price": 299
+                },
+                {
+                    "timestamp": "2025-10-20",
+                    "price": 74.75
+                }
+            ],
+            "microsoft": []
+        }
+    },
+    "1222680": {
+        "gameInfo": {
+            "name": "Nome Desconhecido",
+            "url": "https://store.steampowered.com/app/1222680/",
+            "image": "",
+            "currency": "BRL",
+            "lastUpdated": "2025-10-06T22:28:39.614Z",
+            "itadId": "018d937f-333d-73a0-b5c7-b40075c95b25"
+        },
+        "priceHistory": {
+            "steam": [],
+            "epic": [],
+            "microsoft": []
+        }
+    },
+    "1245620": {
+        "gameInfo": {
+            "name": "ELDEN RING",
+            "url": "https://store.steampowered.com/app/1245620/",
+            "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg?t=1748630546",
+            "currency": "BRL",
+            "lastUpdated": "2025-10-05T02:49:37.373Z",
+            "itadId": "018d937f-590c-728b-ac35-38bcff85f086",
+            "historyLow_steam": 164.7,
+            "historyLow_steam_updated": "2025-10-05T02:49:37.373Z"
+        },
+        "priceHistory": {
+            "steam": [
+                {
+                    "timestamp": "2025-07-03",
+                    "price": 164.7
+                },
+                {
+                    "timestamp": "2025-07-04",
+                    "price": 164.7
+                },
+                {
+                    "timestamp": "2025-07-05",
+                    "price": 164.7
+                },
+                {
+                    "timestamp": "2025-07-10",
+                    "price": 274.5
+                },
+                {
+                    "timestamp": "2025-10-04",
+                    "price": 274.5
+                }
+            ],
+            "epic": [],
+            "microsoft": []
+        }
+    },
+    "1260320": {
+        "gameInfo": {
+            "name": "Nome Desconhecido",
+            "url": "https://store.steampowered.com/app/1260320/",
+            "image": "",
+            "currency": "BRL",
+            "lastUpdated": "2025-10-05T02:49:37.374Z",
+            "itadId": "018d937f-063c-71f6-8d23-727861480328",
+            "historyLow_steam": 32.47,
+            "historyLow_steam_updated": "2025-10-05T02:49:37.374Z"
+        },
+        "priceHistory": {
+            "steam": [
+                {
+                    "timestamp": "2025-07-03",
+                    "price": 38.97
+                },
+                {
+                    "timestamp": "2025-07-10",
+                    "price": 64.95
+                },
+                {
+                    "timestamp": "2025-08-11",
+                    "price": 45.46
+                },
+                {
+                    "timestamp": "2025-08-18",
+                    "price": 64.95
+                },
+                {
+                    "timestamp": "2025-09-20",
+                    "price": 32.47
+                },
+                {
+                    "timestamp": "2025-09-27",
+                    "price": 64.95
+                },
+                {
+                    "timestamp": "2025-09-29",
+                    "price": 38.97
+                },
+                {
+                    "timestamp": "2025-10-04",
+                    "price": 38.97
+                },
+                {
+                    "timestamp": "2025-10-06",
+                    "price": 64.95
+                }
+            ],
+            "epic": [],
+            "microsoft": []
+        }
+    },
+    "1262560": {
+        "gameInfo": {
+            "name": "Nome Desconhecido",
+            "url": "https://store.steampowered.com/app/1262560/",
+            "image": "",
+            "currency": "BRL",
+            "lastUpdated": "2025-10-06T22:48:54.120Z",
+            "itadId": "018d937e-f521-7381-80d7-e4aeb216f1e0",
+            "historyLow_steam": 14.75,
+            "historyLow_steam_updated": "2025-10-06T22:48:50.768Z",
+            "historyLow_epic": 14.75,
+            "historyLow_epic_updated": "2025-10-06T22:48:54.120Z"
+        },
+        "priceHistory": {
+            "steam": [
+                {
+                    "timestamp": "2025-07-05",
+                    "price": 14.75
+                },
+                {
+                    "timestamp": "2025-07-10",
+                    "price": 59
+                },
+                {
+                    "timestamp": "2025-07-28",
+                    "price": 14.75
+                },
+                {
+                    "timestamp": "2025-08-11",
+                    "price": 59
+                },
+                {
+                    "timestamp": "2025-09-11",
+                    "price": 14.75
+                },
+                {
+                    "timestamp": "2025-09-25",
+                    "price": 59
+                },
+                {
+                    "timestamp": "2025-09-29",
+                    "price": 14.75
+                },
+                {
+                    "timestamp": "2025-10-06",
+                    "price": 59
+                }
+            ],
+            "epic": [
+                {
+                    "timestamp": "2025-07-05",
+                    "price": 59
+                },
+                {
+                    "timestamp": "2025-08-07",
+                    "price": 14.75
+                },
+                {
+                    "timestamp": "2025-08-21",
+                    "price": 59
+                },
+                {
+                    "timestamp": "2025-09-22",
+                    "price": 14.75
+                },
+                {
+                    "timestamp": "2025-10-06",
+                    "price": 59
+                }
+            ],
+            "microsoft": []
+        }
+    },
+    "1262580": {
+        "gameInfo": {
+            "name": "Nome Desconhecido",
+            "url": "https://store.steampowered.com/app/1262580/",
+            "image": "",
+            "currency": "BRL",
+            "lastUpdated": "2025-10-06T22:50:30.910Z",
+            "itadId": "018d937f-3464-7065-a5c9-87b514919a62",
+            "historyLow_steam": 14.24,
+            "historyLow_steam_updated": "2025-10-06T22:50:27.552Z",
+            "historyLow_epic": 26.7,
+            "historyLow_epic_updated": "2025-10-06T22:50:30.909Z"
+        },
+        "priceHistory": {
+            "steam": [
+                {
+                    "timestamp": "2025-07-05",
+                    "price": 23.14
+                },
+                {
+                    "timestamp": "2025-07-10",
+                    "price": 89
+                },
+                {
+                    "timestamp": "2025-07-28",
+                    "price": 14.24
+                },
+                {
+                    "timestamp": "2025-08-11",
+                    "price": 89
+                },
+                {
+                    "timestamp": "2025-09-11",
+                    "price": 23.14
+                },
+                {
+                    "timestamp": "2025-09-25",
+                    "price": 89
+                },
+                {
+                    "timestamp": "2025-09-29",
+                    "price": 23.14
+                },
+                {
+                    "timestamp": "2025-10-06",
+                    "price": 89
+                }
+            ],
+            "epic": [
+                {
+                    "timestamp": "2025-07-05",
+                    "price": 89
+                },
+                {
+                    "timestamp": "2025-08-07",
+                    "price": 26.7
+                },
+                {
+                    "timestamp": "2025-08-21",
+                    "price": 89
+                },
+                {
+                    "timestamp": "2025-09-22",
+                    "price": 26.7
+                },
+                {
+                    "timestamp": "2025-10-06",
+                    "price": 89
+                }
+            ],
+            "microsoft": []
+        }
+    },
+    "1326470": {
+        "gameInfo": {
+            "name": "Sons Of The Forest",
+            "image": "https://assets.isthereanydeal.com/018d937f-615e-70be-9403-5384464c6f1f/banner300.jpg?t=1731696604",
+            "lastUpdated": "2025-10-27T18:50:27.215Z",
+            "itadId": "018d937f-615e-70be-9403-5384464c6f1f",
+            "historyLow_steam": 28.47,
+            "historyLow_steam_updated": "2025-10-27T18:50:27.214Z",
+            "url": "https://store.steampowered.com/app/1326470/",
+            "currency": "BRL"
+        },
+        "priceHistory": {
+            "steam": [
+                {
+                    "timestamp": "2025-07-03",
+                    "price": 30.25
+                },
+                {
+                    "timestamp": "2025-07-04",
+                    "price": 30.25
+                },
+                {
+                    "timestamp": "2025-07-10",
+                    "price": 88.99
+                },
+                {
+                    "timestamp": "2025-10-01",
+                    "price": 29.36
+                },
+                {
+                    "timestamp": "2025-10-04",
+                    "price": 29.36
+                },
+                {
+                    "timestamp": "2025-10-06",
+                    "price": 88.99
+                },
+                {
+                    "timestamp": "2025-10-27",
+                    "price": 28.47
+                }
+            ],
+            "epic": [],
+            "microsoft": []
+        }
+    },
+    "1328660": {
+        "gameInfo": {
+            "name": "Nome Desconhecido",
+            "url": "https://store.steampowered.com/app/1328660/",
+            "image": "",
+            "currency": "BRL",
+            "lastUpdated": "2025-10-06T22:48:54.553Z",
+            "itadId": "018d937f-47f0-73dd-940a-d89d9e3f25d3",
+            "historyLow_steam": 29.8,
+            "historyLow_steam_updated": "2025-10-06T22:48:50.772Z",
+            "historyLow_epic": 29.8,
+            "historyLow_epic_updated": "2025-10-06T22:48:54.553Z"
+        },
+        "priceHistory": {
+            "steam": [
+                {
+                    "timestamp": "2025-07-05",
+                    "price": 29.8
+                },
+                {
+                    "timestamp": "2025-07-10",
+                    "price": 149
+                },
+                {
+                    "timestamp": "2025-07-28",
+                    "price": 29.8
+                },
+                {
+                    "timestamp": "2025-08-11",
+                    "price": 149
+                },
+                {
+                    "timestamp": "2025-09-11",
+                    "price": 29.8
+                },
+                {
+                    "timestamp": "2025-09-25",
+                    "price": 149
+                },
+                {
+                    "timestamp": "2025-09-29",
+                    "price": 29.8
+                },
+                {
+                    "timestamp": "2025-10-06",
+                    "price": 149
+                }
+            ],
+            "epic": [
+                {
+                    "timestamp": "2025-07-05",
+                    "price": 149
+                },
+                {
+                    "timestamp": "2025-08-07",
+                    "price": 29.8
+                },
+                {
+                    "timestamp": "2025-08-21",
+                    "price": 149
+                },
+                {
+                    "timestamp": "2025-09-22",
+                    "price": 29.8
+                },
+                {
+                    "timestamp": "2025-10-06",
+                    "price": 149
+                }
+            ],
+            "microsoft": []
+        }
+    },
+    "1364780": {
+        "gameInfo": {
+            "name": "Street Fighter 6",
+            "url": "https://store.steampowered.com/app/1364780/",
+            "image": "https://assets.isthereanydeal.com/018d937f-64d8-72a9-b6e7-9e34585a016f/banner300.jpg?t=1761117607",
+            "currency": "BRL",
+            "lastUpdated": "2025-10-26T21:00:09.194Z",
+            "itadId": "018d937f-64d8-72a9-b6e7-9e34585a016f",
+            "historyLow_steam": 89.5,
+            "historyLow_steam_updated": "2025-10-05T02:51:44.855Z"
+        },
+        "priceHistory": {
+            "steam": [
+                {
+                    "timestamp": "2025-07-04",
+                    "price": 179
+                },
+                {
+                    "timestamp": "2025-07-05",
+                    "price": 179
+                },
+                {
+                    "timestamp": "2025-08-11",
+                    "price": 134.25
+                },
+                {
+                    "timestamp": "2025-08-24",
+                    "price": 179
+                },
+                {
+                    "timestamp": "2025-09-23",
+                    "price": 89.5
+                },
+                {
+                    "timestamp": "2025-10-06",
+                    "price": 179
+                },
+                {
+                    "timestamp": "2025-10-29",
+                    "price": 89.5
+                }
+            ],
+            "epic": [],
+            "microsoft": []
+        }
+    },
+    "1593500": {
+        "gameInfo": {
+            "name": "God of War",
+            "url": "https://store.steampowered.com/app/1593500/",
+            "image": "https://assets.isthereanydeal.com/018d937f-4964-7357-a557-f04dac608915/banner300.jpg?t=1750949771",
+            "currency": "BRL",
+            "lastUpdated": "2025-10-30T21:26:55.937Z",
+            "itadId": "018d937f-4964-7357-a557-f04dac608915",
+            "historyLow_epic": 79.96,
+            "historyLow_epic_updated": "2025-10-07T01:09:22.398Z",
+            "historyLow_steam": 79.96,
+            "historyLow_steam_updated": "2025-10-07T01:10:07.250Z"
+        },
+        "priceHistory": {
+            "steam": [
+                {
+                    "timestamp": "2025-07-06",
+                    "price": 79.96
+                },
+                {
+                    "timestamp": "2025-07-07",
+                    "price": 79.96
+                },
+                {
+                    "timestamp": "2025-07-10",
+                    "price": 199.9
+                },
+                {
+                    "timestamp": "2025-10-01",
+                    "price": 79.96
+                },
+                {
+                    "timestamp": "2025-10-06",
+                    "price": 199.9
+                }
+            ],
+            "epic": [
+                {
+                    "timestamp": "2025-07-06",
+                    "price": 199.9
+                },
+                {
+                    "timestamp": "2025-07-17",
+                    "price": 79.96
+                },
+                {
+                    "timestamp": "2025-07-31",
+                    "price": 199.9
+                },
+                {
+                    "timestamp": "2025-09-04",
+                    "price": 79.96
+                },
+                {
+                    "timestamp": "2025-09-18",
+                    "price": 199.9
+                }
+            ],
+            "microsoft": []
+        }
+    },
+    "1595080": {
+        "gameInfo": {
+            "name": "Nome Desconhecido",
+            "url": "https://store.steampowered.com/app/1595080/",
+            "image": "",
+            "currency": "BRL",
+            "lastUpdated": "2025-10-05T02:49:37.377Z",
+            "itadId": "018d937f-4f1c-7203-aded-694be4a5f046",
+            "historyLow_steam": 5.57,
+            "historyLow_steam_updated": "2025-10-05T02:49:37.376Z"
+        },
+        "priceHistory": {
+            "steam": [
+                {
+                    "timestamp": "2025-07-03",
+                    "price": 5.57
+                },
+                {
+                    "timestamp": "2025-07-04",
+                    "price": 5.57
+                },
+                {
+                    "timestamp": "2025-07-10",
+                    "price": 12.39
+                },
+                {
+                    "timestamp": "2025-09-29",
+                    "price": 9.29
+                },
+                {
+                    "timestamp": "2025-10-04",
+                    "price": 9.29
+                },
+                {
+                    "timestamp": "2025-10-06",
+                    "price": 12.39
+                }
+            ],
+            "epic": [],
+            "microsoft": []
+        }
+    },
+    "1817070": {
+        "gameInfo": {
+            "name": "Hogwarts Legacy",
+            "url": "https://store.steampowered.com/app/1817070/",
+            "image": "",
+            "currency": "BRL",
+            "lastUpdated": "2025-10-05T02:49:40.771Z",
+            "itadId": "018d937f-6136-71e4-a7d4-088a2e8f58ad",
+            "historyLow_steam": 124.95,
+            "historyLow_steam_updated": "2025-10-05T02:49:37.377Z",
+            "historyLow_epic": 124.95,
+            "historyLow_epic_updated": "2025-10-05T02:49:40.770Z"
+        },
+        "priceHistory": {
+            "steam": [
+                {
+                    "timestamp": "2025-07-03",
+                    "price": 124.95
+                },
+                {
+                    "timestamp": "2025-07-04",
+                    "price": 124.95
+                },
+                {
+                    "timestamp": "2025-07-10",
+                    "price": 249.9
+                },
+                {
+                    "timestamp": "2025-09-29",
+                    "price": 124.95
+                },
+                {
+                    "timestamp": "2025-10-04",
+                    "price": 124.95
+                },
+                {
+                    "timestamp": "2025-10-06",
+                    "price": 249.9
+                }
+            ],
+            "epic": [
+                {
+                    "timestamp": "2025-07-03",
+                    "price": 249.9
+                },
+                {
+                    "timestamp": "2025-07-17",
+                    "price": 124.95
+                },
+                {
+                    "timestamp": "2025-07-31",
+                    "price": 249.9
+                },
+                {
+                    "timestamp": "2025-09-04",
+                    "price": 124.95
+                },
+                {
+                    "timestamp": "2025-09-18",
+                    "price": 249.9
+                },
+                {
+                    "timestamp": "2025-10-04",
+                    "price": 249.9
+                }
+            ],
+            "microsoft": []
+        }
+    },
+    "1846380": {
+        "gameInfo": {
+            "name": "Need for Speed™ Unbound",
+            "url": "https://store.steampowered.com/app/1846380/",
+            "image": "https://assets.isthereanydeal.com/018d937f-65f5-70b9-98ca-0f2c93902eef/banner300.jpg?t=1761147325",
+            "currency": "BRL",
+            "lastUpdated": "2025-10-26T21:30:03.563Z",
+            "itadId": "018d937f-65f5-70b9-98ca-0f2c93902eef",
+            "historyLow_steam": 20.93,
+            "historyLow_steam_updated": "2025-10-05T02:49:37.379Z",
+            "historyLow_epic": 35.88,
+            "historyLow_epic_updated": "2025-10-05T02:49:40.772Z"
+        },
+        "priceHistory": {
+            "steam": [
+                {
+                    "timestamp": "2025-07-03",
+                    "price": 41.86
+                },
+                {
+                    "timestamp": "2025-07-10",
+                    "price": 299
+                },
+                {
+                    "timestamp": "2025-07-28",
+                    "price": 20.93
+                },
+                {
+                    "timestamp": "2025-08-11",
+                    "price": 299
+                },
+                {
+                    "timestamp": "2025-09-11",
+                    "price": 35.88
+                },
+                {
+                    "timestamp": "2025-09-25",
+                    "price": 299
+                },
+                {
+                    "timestamp": "2025-09-29",
+                    "price": 35.88
+                },
+                {
+                    "timestamp": "2025-10-04",
+                    "price": 35.88
+                },
+                {
+                    "timestamp": "2025-10-06",
+                    "price": 299
+                }
+            ],
+            "epic": [
+                {
+                    "timestamp": "2025-07-03",
+                    "price": 299
+                },
+                {
+                    "timestamp": "2025-07-17",
+                    "price": 41.86
+                },
+                {
+                    "timestamp": "2025-07-31",
+                    "price": 299
+                },
+                {
+                    "timestamp": "2025-09-22",
+                    "price": 35.88
+                },
+                {
+                    "timestamp": "2025-10-04",
+                    "price": 35.88
+                },
+                {
+                    "timestamp": "2025-10-06",
+                    "price": 299
+                }
+            ],
+            "microsoft": []
+        }
+    },
+    "1903340": {
+        "gameInfo": {
+            "name": "Clair Obscur: Expedition 33",
+            "url": "https://store.steampowered.com/app/1903340/",
+            "image": "https://assets.isthereanydeal.com/018ffe0d-15a7-7247-bb3c-4e5e1980561f/banner300.jpg?t=1761303923",
+            "currency": "BRL",
+            "lastUpdated": "2025-10-30T19:17:19.613Z",
+            "itadId": "018ffe0d-15a7-7247-bb3c-4e5e1980561f",
+            "historyLow_steam": 159.2,
+            "historyLow_steam_updated": "2025-10-30T19:17:19.611Z",
+            "historyLow_epic": 179.1,
+            "historyLow_epic_updated": "2025-10-05T02:49:40.773Z",
+            "historyLow_microsoft": 166.45,
+            "historyLow_microsoft_updated": "2025-10-05T02:49:44.103Z"
+        },
+        "priceHistory": {
+            "steam": [
+                {
+                    "timestamp": "2025-07-03",
+                    "price": 179.1
+                },
+                {
+                    "timestamp": "2025-07-10",
+                    "price": 199
+                },
+                {
+                    "timestamp": "2025-07-15",
+                    "price": 179.1
+                },
+                {
+                    "timestamp": "2025-07-29",
+                    "price": 199
+                },
+                {
+                    "timestamp": "2025-08-28",
+                    "price": 179.1
+                },
+                {
+                    "timestamp": "2025-09-11",
+                    "price": 199
+                },
+                {
+                    "timestamp": "2025-09-29",
+                    "price": 179.1
+                },
+                {
+                    "timestamp": "2025-10-04",
+                    "price": 179.1
+                },
+                {
+                    "timestamp": "2025-10-06",
+                    "price": 199
+                },
+                {
+                    "timestamp": "2025-10-30",
+                    "price": 159.2
+                }
+            ],
+            "epic": [
+                {
+                    "timestamp": "2025-07-03",
+                    "price": 199
+                },
+                {
+                    "timestamp": "2025-07-17",
+                    "price": 179.1
+                },
+                {
+                    "timestamp": "2025-07-31",
+                    "price": 199
+                },
+                {
+                    "timestamp": "2025-09-04",
+                    "price": 179.1
+                },
+                {
+                    "timestamp": "2025-09-18",
+                    "price": 199
+                },
+                {
+                    "timestamp": "2025-10-04",
+                    "price": 199
+                },
+                {
+                    "timestamp": "2025-10-20",
+                    "price": 179.1
+                }
+            ],
+            "microsoft": [
+                {
+                    "timestamp": "2025-07-03",
+                    "price": 184.95
+                },
+                {
+                    "timestamp": "2025-07-16",
+                    "price": 166.45
+                },
+                {
+                    "timestamp": "2025-08-01",
+                    "price": 184.95
+                },
+                {
+                    "timestamp": "2025-10-02",
+                    "price": 166.45
+                },
+                {
+                    "timestamp": "2025-10-04",
+                    "price": 166.45
+                },
+                {
+                    "timestamp": "2025-10-09",
+                    "price": 184.95
+                }
+            ]
+        }
+    },
+    "1971870": {
+        "gameInfo": {
+            "name": "MORTAL KOMBAT 1",
+            "url": "https://store.steampowered.com/app/1971870/",
+            "image": "https://assets.isthereanydeal.com/018d937f-2085-72ce-ab5c-7c4138adc603/banner300.jpg?t=1760635801",
+            "currency": "BRL",
+            "lastUpdated": "2025-10-27T21:00:06.386Z",
+            "itadId": "018d937f-2085-72ce-ab5c-7c4138adc603",
+            "historyLow_steam": 57.49,
+            "historyLow_steam_updated": "2025-10-16T18:28:21.005Z",
+            "historyLow_epic": 57.49,
+            "historyLow_epic_updated": "2025-10-20T17:34:05.212Z"
+        },
+        "priceHistory": {
+            "steam": [
+                {
+                    "timestamp": "2025-07-03",
+                    "price": 75.89
+                },
+                {
+                    "timestamp": "2025-07-10",
+                    "price": 229.99
+                },
+                {
+                    "timestamp": "2025-07-31",
+                    "price": 75.89
+                },
+                {
+                    "timestamp": "2025-08-13",
+                    "price": 229.99
+                },
+                {
+                    "timestamp": "2025-09-29",
+                    "price": 75.89
+                },
+                {
+                    "timestamp": "2025-10-04",
+                    "price": 75.89
+                },
+                {
+                    "timestamp": "2025-10-06",
+                    "price": 229.99
+                },
+                {
+                    "timestamp": "2025-10-16",
+                    "price": 57.49
+                },
+                {
+                    "timestamp": "2025-10-23",
+                    "price": 229.99
+                }
+            ],
+            "epic": [
+                {
+                    "timestamp": "2025-07-03",
+                    "price": 229.99
+                },
+                {
+                    "timestamp": "2025-07-17",
+                    "price": 75.89
+                },
+                {
+                    "timestamp": "2025-07-31",
+                    "price": 229.99
+                },
+                {
+                    "timestamp": "2025-09-04",
+                    "price": 75.89
+                },
+                {
+                    "timestamp": "2025-09-18",
+                    "price": 229.99
+                },
+                {
+                    "timestamp": "2025-10-04",
+                    "price": 229.99
+                },
+                {
+                    "timestamp": "2025-10-20",
+                    "price": 57.49
+                }
+            ],
+            "microsoft": []
+        }
+    },
+    "2322010": {
+        "gameInfo": {
+            "name": "Nome Desconhecido",
+            "url": "https://store.steampowered.com/app/2322010/",
+            "image": "",
+            "currency": "BRL",
+            "lastUpdated": "2025-10-07T02:45:56.498Z",
+            "itadId": "018d937f-6bca-706d-9e69-8316170c379b",
+            "historyLow_steam": 199.92,
+            "historyLow_steam_updated": "2025-10-07T02:45:53.149Z",
+            "historyLow_epic": 199.92,
+            "historyLow_epic_updated": "2025-10-07T02:45:56.497Z"
+        },
+        "priceHistory": {
+            "steam": [
+                {
+                    "timestamp": "2025-07-06",
+                    "price": 199.92
+                },
+                {
+                    "timestamp": "2025-07-10",
+                    "price": 249.9
+                },
+                {
+                    "timestamp": "2025-09-29",
+                    "price": 199.92
+                },
+                {
+                    "timestamp": "2025-10-06",
+                    "price": 249.9
+                },
+                {
+                    "timestamp": "2025-10-07",
+                    "price": 249.9
+                }
+            ],
+            "epic": [
+                {
+                    "timestamp": "2025-07-06",
+                    "price": 249.9
+                },
+                {
+                    "timestamp": "2025-07-17",
+                    "price": 199.92
+                },
+                {
+                    "timestamp": "2025-07-31",
+                    "price": 249.9
+                },
+                {
+                    "timestamp": "2025-09-04",
+                    "price": 199.92
+                },
+                {
+                    "timestamp": "2025-09-18",
+                    "price": 249.9
+                },
+                {
+                    "timestamp": "2025-10-07",
+                    "price": 249.9
+                }
+            ],
+            "microsoft": []
+        }
+    },
+    "2668510": {
+        "gameInfo": {
+            "name": "Nome Desconhecido",
+            "url": "https://store.steampowered.com/app/2668510/",
+            "image": "",
+            "currency": "BRL",
+            "lastUpdated": "2025-10-06T22:48:50.779Z",
+            "itadId": "018d937e-ff79-7006-af68-00a54e69236d",
+            "historyLow_steam": 149.7,
+            "historyLow_steam_updated": "2025-10-06T22:48:50.778Z"
+        },
+        "priceHistory": {
+            "steam": [
+                {
+                    "timestamp": "2025-07-05",
+                    "price": 149.7
+                },
+                {
+                    "timestamp": "2025-07-10",
+                    "price": 249.5
+                },
+                {
+                    "timestamp": "2025-07-28",
+                    "price": 149.7
+                },
+                {
+                    "timestamp": "2025-08-11",
+                    "price": 249.5
+                },
+                {
+                    "timestamp": "2025-09-11",
+                    "price": 149.7
+                },
+                {
+                    "timestamp": "2025-09-25",
+                    "price": 249.5
+                },
+                {
+                    "timestamp": "2025-09-29",
+                    "price": 149.7
+                },
+                {
+                    "timestamp": "2025-10-06",
+                    "price": 249.5
+                }
+            ],
+            "epic": [],
+            "microsoft": []
+        }
+    },
+    "2804200": {
+        "gameInfo": {
+            "name": "Nome Desconhecido",
+            "url": "https://store.steampowered.com/app/2804200/",
+            "image": "",
+            "currency": "BRL",
+            "lastUpdated": "2025-10-07T01:08:08.717Z",
+            "itadId": "018dcb37-7162-708b-b133-aec03363001e"
+        },
+        "priceHistory": {
+            "steam": [
+                {
+                    "timestamp": "2025-07-06",
+                    "price": 0
+                },
+                {
+                    "timestamp": "2025-07-07",
+                    "price": 0
+                },
+                {
+                    "timestamp": "2025-07-08",
+                    "price": 0
+                },
+                {
+                    "timestamp": "2025-07-09",
+                    "price": 0
+                },
+                {
+                    "timestamp": "2025-10-07",
+                    "price": 0
+                }
+            ],
+            "epic": [],
+            "microsoft": []
+        }
+    },
+    "2947440": {
+        "gameInfo": {
+            "name": "SILENT HILL f",
+            "url": "https://store.steampowered.com/app/2947440/",
+            "image": "https://assets.isthereanydeal.com/01959185-ba9e-738b-86c4-2104497fb9f8/banner300.jpg?t=1758774019",
+            "currency": "BRL",
+            "lastUpdated": "2025-10-26T21:00:18.070Z",
+            "itadId": "01959185-ba9e-738b-86c4-2104497fb9f8",
+            "historyLow_steam": 349.9,
+            "historyLow_steam_updated": "2025-10-05T02:49:37.383Z",
+            "historyLow_epic": 349.9,
+            "historyLow_epic_updated": "2025-10-05T02:49:40.775Z",
+            "historyLow_microsoft": 349.9,
+            "historyLow_microsoft_updated": "2025-10-05T02:49:44.105Z"
+        },
+        "priceHistory": {
+            "steam": [
+                {
+                    "timestamp": "2025-07-03",
+                    "price": 349.9
+                },
+                {
+                    "timestamp": "2025-07-04",
+                    "price": 349.9
+                },
+                {
+                    "timestamp": "2025-07-05",
+                    "price": 349.9
+                },
+                {
+                    "timestamp": "2025-07-06",
+                    "price": 349.9
+                },
+                {
+                    "timestamp": "2025-10-04",
+                    "price": 349.9
+                }
+            ],
+            "epic": [
+                {
+                    "timestamp": "2025-07-03",
+                    "price": 349.9
+                },
+                {
+                    "timestamp": "2025-07-04",
+                    "price": 349.9
+                },
+                {
+                    "timestamp": "2025-10-04",
+                    "price": 349.9
+                }
+            ],
+            "microsoft": [
+                {
+                    "timestamp": "2025-07-03",
+                    "price": 349.9
+                },
+                {
+                    "timestamp": "2025-07-04",
+                    "price": 349.9
+                },
+                {
+                    "timestamp": "2025-10-04",
+                    "price": 349.9
+                }
+            ]
+        }
+    },
+    "3240220": {
+        "gameInfo": {
+            "name": "Grand Theft Auto V Enhanced",
+            "url": "https://store.steampowered.com/app/3240220/",
+            "image": "https://assets.isthereanydeal.com/019548b5-653e-7101-ae11-8f0bfbd15ee6/banner300.jpg?t=1760982034",
+            "currency": "BRL",
+            "lastUpdated": "2025-10-26T21:00:19.350Z",
+            "itadId": "019548b5-653e-7101-ae11-8f0bfbd15ee6",
+            "historyLow_steam": 74.95,
+            "historyLow_steam_updated": "2025-10-05T02:49:37.384Z",
+            "historyLow_epic": 74.95,
+            "historyLow_epic_updated": "2025-10-05T02:49:40.776Z",
+            "historyLow_microsoft": 74.95,
+            "historyLow_microsoft_updated": "2025-10-05T02:49:44.106Z"
+        },
+        "priceHistory": {
+            "steam": [
+                {
+                    "timestamp": "2025-07-03",
+                    "price": 74.95
+                },
+                {
+                    "timestamp": "2025-07-10",
+                    "price": 149.9
+                },
+                {
+                    "timestamp": "2025-08-14",
+                    "price": 74.95
+                },
+                {
+                    "timestamp": "2025-08-28",
+                    "price": 149.9
+                },
+                {
+                    "timestamp": "2025-09-29",
+                    "price": 74.95
+                },
+                {
+                    "timestamp": "2025-10-04",
+                    "price": 74.95
+                },
+                {
+                    "timestamp": "2025-10-20",
+                    "price": 149.9
+                }
+            ],
+            "epic": [
+                {
+                    "timestamp": "2025-07-03",
+                    "price": 149.9
+                },
+                {
+                    "timestamp": "2025-07-17",
+                    "price": 74.95
+                },
+                {
+                    "timestamp": "2025-07-31",
+                    "price": 149.9
+                },
+                {
+                    "timestamp": "2025-09-04",
+                    "price": 74.95
+                },
+                {
+                    "timestamp": "2025-09-18",
+                    "price": 149.9
+                },
+                {
+                    "timestamp": "2025-10-04",
+                    "price": 149.9
+                },
+                {
+                    "timestamp": "2025-10-20",
+                    "price": 74.95
+                }
+            ],
+            "microsoft": [
+                {
+                    "timestamp": "2025-07-03",
+                    "price": 149.9
+                },
+                {
+                    "timestamp": "2025-07-16",
+                    "price": 74.95
+                },
+                {
+                    "timestamp": "2025-08-01",
+                    "price": 149.9
+                },
+                {
+                    "timestamp": "2025-09-09",
+                    "price": 74.95
+                },
+                {
+                    "timestamp": "2025-09-23",
+                    "price": 149.9
+                },
+                {
+                    "timestamp": "2025-10-04",
+                    "price": 149.9
+                },
+                {
+                    "timestamp": "2025-10-15",
+                    "price": 74.95
+                },
+                {
+                    "timestamp": "2025-10-28",
+                    "price": 149.9
+                }
+            ]
+        }
+    },
+    "3482260": {
+        "gameInfo": {
+            "name": "Nome Desconhecido",
+            "url": "https://store.steampowered.com/app/3482260/",
+            "image": "",
+            "currency": "BRL",
+            "lastUpdated": "2025-10-06T22:48:50.783Z",
+            "itadId": "019562a8-8634-71e9-80e1-0727de75c48c",
+            "historyLow_steam": 42.9,
+            "historyLow_steam_updated": "2025-10-06T22:48:50.782Z"
+        },
+        "priceHistory": {
+            "steam": [
+                {
+                    "timestamp": "2025-07-05",
+                    "price": 42.9
+                },
+                {
+                    "timestamp": "2025-07-06",
+                    "price": 42.9
+                },
+                {
+                    "timestamp": "2025-07-07",
+                    "price": 42.9
+                },
+                {
+                    "timestamp": "2025-07-08",
+                    "price": 42.9
+                },
+                {
+                    "timestamp": "2025-10-06",
+                    "price": 42.9
+                }
+            ],
+            "epic": [],
+            "microsoft": []
+        }
+    }
+}
